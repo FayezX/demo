@@ -6,22 +6,6 @@
       "auditUnit": "Audit1",
       "startDate": "April 1 2019",
       "endDate": "January 11 2020",
-      "users": [
-        {
-          "id": 1,
-          "email":"sdfsdf@pwc.com",
-          "role": {
-            "id": 1,
-            "name": "",
-            "permission": [
-              {
-                "id": 1,
-                "name": ""
-              }
-            ]
-          }
-        }
-      ],
       "revenueStreams": [
         { "id": 1,
           "name": "Sale of Goods",
@@ -57,22 +41,6 @@
       "auditUnit": "Audit2",
       "startDate": "May 1 2019",
       "endDate": "January 11 2020",
-      "users": [
-        {
-          "id": 1,
-          "email":"sdfsdf@pwc.com",
-          "role": {
-            "id": 1,
-            "name": "",
-            "permission": [
-              {
-                "id": 1,
-                "name": ""
-              }
-            ]
-          }
-        }
-      ],
       "revenueStreams": [
         { "id": 1,
           "name": "Sale of Goods",
@@ -108,22 +76,6 @@
       "auditUnit": "Audit3", 
       "startDate": "Jun 1 2019",
       "endDate": "January 11 2020",
-      "users": [
-        {
-          "id": 1,
-          "email":"sdfsdf@pwc.com",
-          "role": {
-            "id": 1,
-            "name": "",
-            "permission": [
-              {
-                "id": 1,
-                "name": ""
-              }
-            ]
-          }
-        }
-      ],
       "revenueStreams": [
         { "id": 1,
           "name": "Sale of Goods",
@@ -159,22 +111,6 @@
       "auditUnit": "Audit4", 
       "startDate": "July 1 2019",
       "endDate": "January 11 2020",
-      "users": [
-        {
-          "id": 1,
-          "email":"sdfsdf@pwc.com",
-          "role": {
-            "id": 1,
-            "name": "",
-            "permission": [
-              {
-                "id": 1,
-                "name": ""
-              }
-            ]
-          }
-        }
-      ],
       "revenueStreams": [
         { "id": 1,
           "name": "Sale of Goods",
@@ -210,22 +146,6 @@
       "auditUnit": "Audit5", 
       "startDate": "Aug 1 2019",
       "endDate": "January 11 2020",
-      "users": [
-        {
-          "id": 1,
-          "email":"sdfsdf@pwc.com",
-          "role": {
-            "id": 1,
-            "name": "",
-            "permission": [
-              {
-                "id": 1,
-                "name": ""
-              }
-            ]
-          }
-        }
-      ],
       "revenueStreams": [
         { "id": 1,
           "name": "Sale of Goods",
@@ -261,22 +181,6 @@
       "auditUnit": "Audit6", 
       "startDate": "Sept 1 2019",
       "endDate": "January 11 2020",
-      "users": [
-        {
-          "id": 1,
-          "email":"sdfsdf@pwc.com",
-          "role": {
-            "id": 1,
-            "name": "",
-            "permission": [
-              {
-                "id": 1,
-                "name": ""
-              }
-            ]
-          }
-        }
-      ],
       "revenueStreams": [
         { "id": 1,
           "name": "Sale of Goods",
@@ -312,22 +216,6 @@
       "auditUnit": "Audit7", 
       "startDate": "Oct 1 2019",
       "endDate": "January 11 2020",
-      "users": [
-        {
-          "id": 1,
-          "email":"sdfsdf@pwc.com",
-          "role": {
-            "id": 1,
-            "name": "",
-            "permission": [
-              {
-                "id": 1,
-                "name": ""
-              }
-            ]
-          }
-        }
-      ],
       "revenueStreams": [
         { "id": 1,
           "name": "Sale of Goods",
@@ -363,22 +251,6 @@
       "auditUnit": "Audit8", 
       "startDate": "Nov 1 2019",
       "endDate": "January 11 2020",
-      "users": [
-        {
-          "id": 1,
-          "email":"sdfsdf@pwc.com",
-          "role": {
-            "id": 1,
-            "name": "",
-            "permission": [
-              {
-                "id": 1,
-                "name": ""
-              }
-            ]
-          }
-        }
-      ],
       "revenueStreams": [
         { "id": 1,
           "name": "Sale of Goods",
