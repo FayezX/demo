@@ -11,28 +11,7 @@
           "name": "Sale of Goods",
           "overallThreshold": "$600,000",
           "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000",
-         "stages": [{
-            "name": "Perform Reconciliation",
-            "subStages": [""],
-            "isCompleted": true
-          },{
-            "name": "Review Findings",
-            "subStages": [{
-              "name": "Review Contract Identification",
-              "isComplete": true
-            },{
-              "name": "Review Step 2",
-              "isComplete": false
-            },{
-              "name": "Review Step 3",
-              "isComplete": false
-            },{
-              "name": "Review Step 4",
-              "isComplete": false
-            }],
-            "isCompleted": false
-          }]
+          "performanceThreshold": "$500,000"
         }
       ]
     },{ "id": 2,
@@ -46,28 +25,7 @@
           "name": "Sale of Goods",
           "overallThreshold": "$700,000",
           "deMinimisThreshold": "$40,000",
-          "performanceThreshold": "$100,000",
-         "stages": [{
-            "name": "Perform Reconciliation",
-            "subStages": [""],
-            "isCompleted": true
-          },{
-            "name": "Review Findings",
-            "subStages": [{
-              "name": "Review Contract Identification",
-              "isComplete": true
-            },{
-              "name": "Review Step 2",
-              "isComplete": false
-            },{
-              "name": "Review Step 3",
-              "isComplete": false
-            },{
-              "name": "Review Step 4",
-              "isComplete": false
-            }],
-            "isCompleted": false
-          }]
+          "performanceThreshold": "$100,000"
         }
       ]
     },{ "id": 3,
@@ -81,28 +39,7 @@
           "name": "Sale of Goods",
           "overallThreshold": "$600,000",
           "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000",
-         "stages": [{
-            "name": "Perform Reconciliation",
-            "subStages": [""],
-            "isCompleted": true
-          },{
-            "name": "Review Findings",
-            "subStages": [{
-              "name": "Review Contract Identification",
-              "isComplete": true
-            },{
-              "name": "Review Step 2",
-              "isComplete": false
-            },{
-              "name": "Review Step 3",
-              "isComplete": false
-            },{
-              "name": "Review Step 4",
-              "isComplete": false
-            }],
-            "isCompleted": false
-          }]
+          "performanceThreshold": "$500,000"
         }
       ]
     },{ "id": 4,
@@ -116,28 +53,7 @@
           "name": "Sale of Goods",
           "overallThreshold": "$600,000",
           "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000",
-         "stages": [{
-            "name": "Perform Reconciliation",
-            "subStages": [""],
-            "isCompleted": true
-          },{
-            "name": "Review Findings",
-            "subStages": [{
-              "name": "Review Contract Identification",
-              "isComplete": true
-            },{
-              "name": "Review Step 2",
-              "isComplete": false
-            },{
-              "name": "Review Step 3",
-              "isComplete": false
-            },{
-              "name": "Review Step 4",
-              "isComplete": false
-            }],
-            "isCompleted": false
-          }]
+          "performanceThreshold": "$500,000"
         }
       ]
     },{ "id": 5,
@@ -151,28 +67,7 @@
           "name": "Sale of Goods",
           "overallThreshold": "$600,000",
           "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000",
-         "stages": [{
-            "name": "Perform Reconciliation",
-            "subStages": [""],
-            "isCompleted": true
-          },{
-            "name": "Review Findings",
-            "subStages": [{
-              "name": "Review Contract Identification",
-              "isComplete": true
-            },{
-              "name": "Review Step 2",
-              "isComplete": false
-            },{
-              "name": "Review Step 3",
-              "isComplete": false
-            },{
-              "name": "Review Step 4",
-              "isComplete": false
-            }],
-            "isCompleted": false
-          }]
+          "performanceThreshold": "$500,000"
         }
       ]
     },{ "id": 6,
@@ -186,28 +81,7 @@
           "name": "Sale of Goods",
           "overallThreshold": "$600,000",
           "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000",
-         "stages": [{
-            "name": "Perform Reconciliation",
-            "subStages": [""],
-            "isCompleted": true
-          },{
-            "name": "Review Findings",
-            "subStages": [{
-              "name": "Review Contract Identification",
-              "isComplete": true
-            },{
-              "name": "Review Step 2",
-              "isComplete": false
-            },{
-              "name": "Review Step 3",
-              "isComplete": false
-            },{
-              "name": "Review Step 4",
-              "isComplete": false
-            }],
-            "isCompleted": false
-          }]
+          "performanceThreshold": "$500,000"
         }
       ]
     },{ "id": 7,
@@ -221,28 +95,7 @@
           "name": "Sale of Goods",
           "overallThreshold": "$600,000",
           "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000",
-         "stages": [{
-            "name": "Perform Reconciliation",
-            "subStages": [""],
-            "isCompleted": true
-          },{
-            "name": "Review Findings",
-            "subStages": [{
-              "name": "Review Contract Identification",
-              "isComplete": true
-            },{
-              "name": "Review Step 2",
-              "isComplete": false
-            },{
-              "name": "Review Step 3",
-              "isComplete": false
-            },{
-              "name": "Review Step 4",
-              "isComplete": false
-            }],
-            "isCompleted": false
-          }]
+          "performanceThreshold": "$500,000"
         }
       ]
     },{ "id": 8,
@@ -256,28 +109,7 @@
           "name": "Sale of Goods",
           "overallThreshold": "$600,000",
           "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000",
-         "stages": [{
-            "name": "Perform Reconciliation",
-            "subStages": [""],
-            "isCompleted": true
-          },{
-            "name": "Review Findings",
-            "subStages": [{
-              "name": "Review Contract Identification",
-              "isComplete": true
-            },{
-              "name": "Review Step 2",
-              "isComplete": false
-            },{
-              "name": "Review Step 3",
-              "isComplete": false
-            },{
-              "name": "Review Step 4",
-              "isComplete": false
-            }],
-            "isCompleted": false
-          }]
+          "performanceThreshold": "$500,000"
         }
       ]
     }
