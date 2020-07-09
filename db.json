@@ -16,7 +16,7 @@
       ],
      "stages": [{
             "name": "Perform Reconciliation",
-            "subStages": [""],
+            "subStages": [],
             "isCompleted": true
           },{
             "name": "Review Findings",
@@ -51,7 +51,7 @@
       ],
        "stages": [{
             "name": "Perform Reconciliation",
-            "subStages": [""],
+            "subStages": [],
             "isCompleted": true
           },{
             "name": "Review Findings",
@@ -86,7 +86,7 @@
       ],
        "stages": [{
             "name": "Perform Reconciliation",
-            "subStages": [""],
+            "subStages": [],
             "isCompleted": true
           },{
             "name": "Review Findings",
