@@ -13,7 +13,28 @@
           "deMinimisThreshold": "$30,000",
           "performanceThreshold": "$500,000"
         }
-      ]
+      ],
+     "stages": [{
+            "name": "Perform Reconciliation",
+            "subStages": [""],
+            "isCompleted": true
+          },{
+            "name": "Review Findings",
+            "subStages": [{
+              "name": "Review Contract Identification",
+              "isComplete": true
+            },{
+              "name": "Review Step 2",
+              "isComplete": false
+            },{
+              "name": "Review Step 3",
+              "isComplete": false
+            },{
+              "name": "Review Step 4",
+              "isComplete": false
+            }],
+            "isCompleted": false
+          }]
     },{ "id": 2,
       "externalId": 11,
       "name": "Engagement2",
@@ -27,7 +48,28 @@
           "deMinimisThreshold": "$40,000",
           "performanceThreshold": "$100,000"
         }
-      ]
+      ],
+       "stages": [{
+            "name": "Perform Reconciliation",
+            "subStages": [""],
+            "isCompleted": true
+          },{
+            "name": "Review Findings",
+            "subStages": [{
+              "name": "Review Contract Identification",
+              "isComplete": true
+            },{
+              "name": "Review Step 2",
+              "isComplete": false
+            },{
+              "name": "Review Step 3",
+              "isComplete": false
+            },{
+              "name": "Review Step 4",
+              "isComplete": false
+            }],
+            "isCompleted": false
+          }]
     },{ "id": 3,
       "externalId": 11,
       "name": "Engagement3",
@@ -41,7 +83,28 @@
           "deMinimisThreshold": "$30,000",
           "performanceThreshold": "$500,000"
         }
-      ]
+      ],
+       "stages": [{
+            "name": "Perform Reconciliation",
+            "subStages": [""],
+            "isCompleted": true
+          },{
+            "name": "Review Findings",
+            "subStages": [{
+              "name": "Review Contract Identification",
+              "isComplete": true
+            },{
+              "name": "Review Step 2",
+              "isComplete": false
+            },{
+              "name": "Review Step 3",
+              "isComplete": false
+            },{
+              "name": "Review Step 4",
+              "isComplete": false
+            }],
+            "isCompleted": false
+          }]
     },{ "id": 4,
       "externalId": 11,
       "name": "Engagement4",
