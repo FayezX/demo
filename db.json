@@ -11,10 +11,8 @@
           "name": "Sale of Goods",
           "overallThreshold": "$600,000",
           "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000"
-        }
-      ],
-     "stages": [{
+          "performanceThreshold": "$500,000",
+       "stages": [{
             "name": "Perform Reconciliation",
             "subStages": [],
             "isCompleted": true
@@ -35,6 +33,8 @@
             }],
             "isCompleted": false
           }]
+        }
+      ]
     },{ "id": 2,
       "externalId": 11,
       "name": "Engagement2",
@@ -46,9 +46,7 @@
           "name": "Sale of Goods",
           "overallThreshold": "$700,000",
           "deMinimisThreshold": "$40,000",
-          "performanceThreshold": "$100,000"
-        }
-      ],
+          "performanceThreshold": "$100,000",
        "stages": [{
             "name": "Perform Reconciliation",
             "subStages": [],
@@ -70,6 +68,8 @@
             }],
             "isCompleted": false
           }]
+        }
+      ]
     },{ "id": 3,
       "externalId": 11,
       "name": "Engagement3",
@@ -81,9 +81,7 @@
           "name": "Sale of Goods",
           "overallThreshold": "$600,000",
           "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000"
-        }
-      ],
+          "performanceThreshold": "$500,000",
        "stages": [{
             "name": "Perform Reconciliation",
             "subStages": [],
@@ -105,6 +103,8 @@
             }],
             "isCompleted": false
           }]
+        }
+      ]
     },{ "id": 4,
       "externalId": 11,
       "name": "Engagement4",
