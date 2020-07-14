@@ -177,14 +177,100 @@
       ]
     }
   ],
-  "revenueStreams": [
-    { "id": 1,
-      "name": "Sale of Goods",
-      "overallThreshold": "$600,000",
-      "deMinimisThreshold": "$30,000",
-      "performanceThreshold": "$500,000"
-    }
-  ],
+  "reconciliationDetailsInfo": [{
+    "id": 1,
+    "transactions": [{
+      "customer": "Name 1",
+      "voucherNumber":"1234564",
+      "type":"Journal Entry",
+      "postingDate":"01/01/2020",
+      "postingAmount": 40000,
+      "transactionAmount": 40000,
+      "reconcilingDifference": 0
+    },
+      {
+        "customer": "Name 1",
+        "voucherNumber":"9876432",
+        "type":"Journal Entry",
+        "postingDate":"01/01/2020",
+        "postingAmount": 1000,
+        "transactionAmount": 40000,
+        "reconcilingDifference": 30000
+      },
+      {
+        "customer": "Name 2",
+        "voucherNumber":"1234564",
+        "type":"Journal Entry",
+        "postingDate":"01/01/2020",
+        "postingAmount": 40000,
+        "transactionAmount": 40000,
+        "reconcilingDifference": 0
+      },
+      {
+        "customer": "Name 3",
+        "voucherNumber":"1234564",
+        "type":"Journal Entry",
+        "postingDate":"01/01/2020",
+        "postingAmount": 10000,
+        "transactionAmount": 40000,
+        "reconcilingDifference": 30000
+      },
+      {
+        "customer": "Name 4",
+        "voucherNumber":"1234564",
+        "type":"Journal Entry",
+        "postingDate":"01/01/2020",
+        "postingAmount": 10000,
+        "transactionAmount": 40000,
+        "reconcilingDifference": 30000
+      },
+      {
+        "customer": "Name 5",
+        "voucherNumber":"1234564",
+        "type":"Journal Entry",
+        "postingDate":"01/01/2020",
+        "postingAmount": 40000,
+        "transactionAmount": 40000,
+        "reconcilingDifference": 0
+      }],
+    "totalTransactionCount": 6,
+    "totalPostingAmount":"6345345",
+    "totalTransactionAmount":"7637",
+    "totalReconsilingDifference":"34534"
+  },{
+    "id": 2,
+    "transactions": [{
+        "customer": "Name 1",
+        "voucherNumber":"9876432",
+        "type":"Journal Entry",
+        "postingDate":"01/01/2020",
+        "postingAmount": 1000,
+        "transactionAmount": 40000,
+        "reconcilingDifference": 30000
+      },
+      {
+        "customer": "Name 3",
+        "voucherNumber":"1234564",
+        "type":"Journal Entry",
+        "postingDate":"01/01/2020",
+        "postingAmount": 10000,
+        "transactionAmount": 40000,
+        "reconcilingDifference": 30000
+      },
+      {
+        "customer": "Name 4",
+        "voucherNumber":"1234564",
+        "type":"Journal Entry",
+        "postingDate":"01/01/2020",
+        "postingAmount": 10000,
+        "transactionAmount": 40000,
+        "reconcilingDifference": 30000
+      }],
+    "totalTransactionCount": 3,
+    "totalPostingAmount":"6345345",
+    "totalTransactionAmount":"7637",
+    "totalReconsilingDifference":"34534"
+  }],
   "revenueInformation": [
     { "id": 1,
       "glAccountBalance": "$36,757,526",
