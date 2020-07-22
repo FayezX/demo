@@ -133,48 +133,6 @@
           "performanceThreshold": "$500,000"
         }
       ]
-    },{ "id": 6,
-      "externalId": 11,
-      "name": "Engagement6",
-      "auditUnit": "Audit6", 
-      "startDate": "Sept 1 2019",
-      "endDate": "January 11 2020",
-      "revenueStreams": [
-        { "id": 1,
-          "name": "Sale of Goods",
-          "overallThreshold": "$600,000",
-          "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000"
-        }
-      ]
-    },{ "id": 7,
-      "externalId": 11,
-      "name": "Engagement7",
-      "auditUnit": "Audit7", 
-      "startDate": "Oct 1 2019",
-      "endDate": "January 11 2020",
-      "revenueStreams": [
-        { "id": 1,
-          "name": "Sale of Goods",
-          "overallThreshold": "$600,000",
-          "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000"
-        }
-      ]
-    },{ "id": 8,
-      "externalId": 11,
-      "name": "Engagement8",
-      "auditUnit": "Audit8", 
-      "startDate": "Nov 1 2019",
-      "endDate": "January 11 2020",
-      "revenueStreams": [
-        { "id": 1,
-          "name": "Sale of Goods",
-          "overallThreshold": "$600,000",
-          "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000"
-        }
-      ]
     }
   ],
   "reconciliationDetailsInfo": [{
@@ -328,27 +286,6 @@
           "name": "Engagement5",
           "auditUnit": "Audit5",  
           "startDate": "Aug 1 2019",
-          "endDate": "January 11 2020"
-        },{
-          "id": 6,
-          "externalId": 66,
-          "name": "Engagement6",
-          "auditUnit": "Audit6",  
-          "startDate": "Sept 1 2019",
-          "endDate": "January 11 2020"
-        },{
-          "id": 7,
-          "externalId": 77,
-          "name": "Engagement7",
-          "auditUnit": "Audit7",  
-          "startDate": "Oct 1 2019",
-          "endDate": "January 11 2020"
-        },{
-          "id": 8,
-          "externalId": 88,
-          "name": "Engagement8",
-          "auditUnit": "Audit8",  
-          "startDate": "Nov 1 2019",
           "endDate": "January 11 2020"
         }]
     }
