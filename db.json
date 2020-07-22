@@ -245,10 +245,7 @@
         "negativeDifferences": 700000,
         "netDifferences": 700000
       }],
-    "totalTransactionCount": 6,
-    "totalPostingAmount":"6345345",
-    "totalTransactionAmount":"7637",
-    "totalReconsilingDifference":"34534"
+    "totalTransactionCount": 6
   },{
     "id": 2,
     "transactions": [{
@@ -284,10 +281,7 @@
         "negativeDifferences": 500000,
         "netDifferences": 100000
       }],
-    "totalTransactionCount": 3,
-    "totalPostingAmount":"6345345",
-    "totalTransactionAmount":"7637",
-    "totalReconsilingDifference":"34534"
+    "totalTransactionCount": 3
   }],
   "revenueInformation": [
     { "id": 1,
