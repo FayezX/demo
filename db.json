@@ -1,140 +1,4 @@
 {
-    "engagementDetails": [
-    { "id": 1,
-      "externalId": 11,
-      "name": "Engagement1",
-      "auditUnit": "Audit1",
-      "startDate": "April 1 2019",
-      "endDate": "January 11 2020",
-      "revenueStreams": [
-        { "id": 1,
-          "name": "Sale of Goods",
-          "overallThreshold": "$600,000",
-          "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000",
-       "stages": [{
-            "name": "Perform Reconciliation",
-            "subStages": [],
-            "isCompleted": true
-          },{
-            "name": "Review Findings",
-            "subStages": [{
-              "name": "Review Contract Identification",
-              "isComplete": true
-            },{
-              "name": "Review Step 2",
-              "isComplete": false
-            },{
-              "name": "Review Step 3",
-              "isComplete": false
-            },{
-              "name": "Review Step 4",
-              "isComplete": false
-            }],
-            "isCompleted": false
-          }]
-        }
-      ]
-    },{ "id": 2,
-      "externalId": 11,
-      "name": "Engagement2",
-      "auditUnit": "Audit2",
-      "startDate": "May 1 2019",
-      "endDate": "January 11 2020",
-      "revenueStreams": [
-        { "id": 1,
-          "name": "Sale of Goods",
-          "overallThreshold": "$700,000",
-          "deMinimisThreshold": "$40,000",
-          "performanceThreshold": "$100,000",
-       "stages": [{
-            "name": "Perform Reconciliation",
-            "subStages": [],
-            "isCompleted": true
-          },{
-            "name": "Review Findings",
-            "subStages": [{
-              "name": "Review Contract Identification",
-              "isComplete": true
-            },{
-              "name": "Review Step 2",
-              "isComplete": false
-            },{
-              "name": "Review Step 3",
-              "isComplete": false
-            },{
-              "name": "Review Step 4",
-              "isComplete": false
-            }],
-            "isCompleted": false
-          }]
-        }
-      ]
-    },{ "id": 3,
-      "externalId": 11,
-      "name": "Engagement3",
-      "auditUnit": "Audit3", 
-      "startDate": "Jun 1 2019",
-      "endDate": "January 11 2020",
-      "revenueStreams": [
-        { "id": 1,
-          "name": "Sale of Goods",
-          "overallThreshold": "$600,000",
-          "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000",
-       "stages": [{
-            "name": "Perform Reconciliation",
-            "subStages": [],
-            "isCompleted": true
-          },{
-            "name": "Review Findings",
-            "subStages": [{
-              "name": "Review Contract Identification",
-              "isComplete": true
-            },{
-              "name": "Review Step 2",
-              "isComplete": false
-            },{
-              "name": "Review Step 3",
-              "isComplete": false
-            },{
-              "name": "Review Step 4",
-              "isComplete": false
-            }],
-            "isCompleted": false
-          }]
-        }
-      ]
-    },{ "id": 4,
-      "externalId": 11,
-      "name": "Engagement4",
-      "auditUnit": "Audit4", 
-      "startDate": "July 1 2019",
-      "endDate": "January 11 2020",
-      "revenueStreams": [
-        { "id": 1,
-          "name": "Sale of Goods",
-          "overallThreshold": "$600,000",
-          "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000"
-        }
-      ]
-    },{ "id": 5,
-      "externalId": 11,
-      "name": "Engagement5",
-      "auditUnit": "Audit5", 
-      "startDate": "Aug 1 2019",
-      "endDate": "January 11 2020",
-      "revenueStreams": [
-        { "id": 1,
-          "name": "Sale of Goods",
-          "overallThreshold": "$600,000",
-          "deMinimisThreshold": "$30,000",
-          "performanceThreshold": "$500,000"
-        }
-      ]
-    }
-  ],
   "reconciliationDetailsInfo": [{
     "id": 1,
     "transactions": [{
@@ -203,7 +67,10 @@
         "negativeDifferences": 700000,
         "netDifferences": 700000
       }],
-    "totalTransactionCount": 6
+    "totalTransactionCount": 6,
+    "totalPostingAmount":"6345345",
+    "totalTransactionAmount":"7637",
+    "totalReconsilingDifference":"34534"
   },{
     "id": 2,
     "transactions": [{
@@ -239,55 +106,22 @@
         "negativeDifferences": 500000,
         "netDifferences": 100000
       }],
-    "totalTransactionCount": 3
+    "totalTransactionCount": 3,
+    "totalPostingAmount":"6345345",
+    "totalTransactionAmount":"7637",
+    "totalReconsilingDifference":"34534"
   }],
-  "revenueInformation": [
+  "fsliInformation": [
     { "id": 1,
-      "glAccountBalance": "$36,757,526",
-      "transactionsTotal": "$36,792,919",
-      "difference": "$35,393",
-      "multiplierMetric": ".07x PM"
-    }
-  ],
-  "engagements": [
-    { "id": 1,
-      "engagements": [
-        {
-          "id": 1,
-          "externalId": 11,
-          "name": "Engagement1",
-          "auditUnit": "Audit1",
-          "startDate": "April 1 2019",
-          "endDate": "January 11 2020"
-        },{
-          "id": 2,
-          "externalId": 22,
-          "name": "Engagement2",
-          "auditUnit": "Audit2",  
-          "startDate": "May 1 2019",
-          "endDate": "January 11 2020"
-        },{
-          "id": 3,
-          "externalId": 33,
-          "name": "Engagement3",
-          "auditUnit": "Audit3",  
-          "startDate": "Jun 1 2019",
-          "endDate": "January 11 2020"
-        },{
-          "id": 4,
-          "externalId": 44,
-          "name": "Engagement4",
-          "auditUnit": "Audit4",  
-          "startDate": "July 1 2019",
-          "endDate": "January 11 2020"
-        },{
-          "id": 5,
-          "externalId": 55,
-          "name": "Engagement5",
-          "auditUnit": "Audit5",  
-          "startDate": "Aug 1 2019",
-          "endDate": "January 11 2020"
-        }]
+      "invoices": "$596,686,208",
+      "creditMemos": "$378,078",
+      "debitMemos": "$259,564",
+      "other": "$9,783,195",
+      "totalPerBillingSubLedger": "$586,794,498",
+      "otherGlActivity": "$7,985,738",
+      "totalRevenuePostedFromAllJeSources": "$594,780,236",
+      "amountPerGl": "$594,780,236",
+      "differences": "$36,792,919"
     }
   ]
 }
