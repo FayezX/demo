@@ -111,7 +111,7 @@
     "totalTransactionAmount":"7637",
     "totalReconsilingDifference":"34534"
   }],
-  "fsliInformation": [
+  "revenueInformation": [
     { "id": 1,
       "invoices": "$596,686,208",
       "creditMemos": "$378,078",
